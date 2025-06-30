@@ -33,7 +33,7 @@ I’m an Embedded Software Engineer with 15+ years of experience in automotive, 
 
 - **Smartwatch with BLE & OLED:** [the-night-watch.com](https://the-night-watch.com/)
 - **csg2stp:** OpenSCAD to STEP converter — [GitHub Repo](https://github.com/gega/csg2stp)
-- **csvcut:** Select, transform, and reformat CSV columns with shell-friendly precision — [GitHub Repo](https://github.com/gega/csvcut)
+- **csvcut:** UNIX-style CSV column processor with support for external transformations — [GitHub Repo](https://github.com/gega/csvcut)
 - [More Projects](https://github.com/gega)
 
 ---
