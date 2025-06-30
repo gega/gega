@@ -13,7 +13,7 @@ I’m an Embedded Software Engineer with 15+ years of experience in automotive, 
 
 - **Languages:** C, C++, Bash, Java, Python, Perl
 - **Platforms:** Linux, RTOS, Android AOSP
-- **Hardware:** ARM Cortex (M0-M4), STM32, GigaDevice, nRF52, Qualcomm
+- **Hardware:** ARM Cortex (M0-M4), nRF52, STM32, GigaDevice, Qualcomm
 - **Technologies:** Embedded Linux, MQTT, BLE, AUTOSAR, Protocol Design
 - **Tools:** Qt, BusyBox, U-Boot, CANalyzer, Lauterbach, Git, SVN
 
