@@ -1,4 +1,4 @@
-# Hi, I'm Gergely Gati
+# Gergely Gati
 *Experienced Embedded Software Engineer | Firmware & IoT Specialist*
 
 ---
